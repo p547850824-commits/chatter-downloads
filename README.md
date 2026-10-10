@@ -37,7 +37,7 @@ Public releases use a dedicated signing certificate. If you previously installed
 
 ## Compatibility
 
-Uses the official [Glyph Matrix SDK 2.0](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Developer-Kit). Supported SDK targets are **Phone (3)** (25×25) and **Phone (4a) Pro** (13×13), with Android 14+ and compatible Nothing OS firmware. App-based Matrix control requires system version 20250801 or later, according to the SDK documentation. Phone (4a) Pro was used for device testing; Phone (3) has not been physically tested for this release. Other devices and three-column strips are not supported by this public build.
+Uses the official [Glyph Matrix SDK 2.0](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Developer-Kit). Supported SDK targets are **Phone (3)** (25×25) and **Phone (4a) Pro** (13×13), with Android 14+ and compatible Nothing OS firmware. App-based Matrix control requires system version 20250801 or later, according to the SDK documentation. Phone (4a) Pro was used for device testing; Phone (3) has not been physically tested for this release.
 
 ## Getting started
 
@@ -59,7 +59,7 @@ The accessibility service detects text-edit activity to advance a preset phrase.
 
 ## Why I made Chatter
 
-Hi everyone! The first-party productivity features for the Glyph Matrix are fantastic, while the games that are only fun to try once feel a little too gimmicky to me. Still, they inspired me to explore some more playful uses for the Glyph Matrix.
+The first-party productivity features for the Glyph Matrix are fantastic, while the games that are only fun to try once feel a little too gimmicky to me. Still, they inspired me to explore some more playful uses for the Glyph Matrix.
 
 Quite a few times in everyday life, a pattern lighting up on my Glyph Matrix has caught the attention of people nearby and prompted them to ask about this interesting phone. I really enjoy those moments when I get to introduce Nothing to someone new.
 
