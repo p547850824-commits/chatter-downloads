@@ -4,7 +4,7 @@
 
 As you type, Chatter brings your Glyph Matrix to life—one character at a time.
 
-Choose from everyday catchphrases, casual slang, or food names from around the world.
+Choose from everyday catchphrases, mild to moderate English swears in the Slang collection, or food names from around the world.
 
 Have something of your own to say? **Pinned text** keeps your message on the Glyph Matrix for one hour.
 
@@ -16,7 +16,7 @@ Chatter displays your selected phrases—not what you’re actually typing. The 
 
 ## Downloads
 
-[**Download Chatter 1.0.1 APK**](https://github.com/p547850824-commits/chatter-downloads/releases/download/v1.0.1/Chatter-1.0.1.apk) · [All releases](https://github.com/p547850824-commits/chatter-downloads/releases)
+[**Download Chatter 1.0.2 APK**](https://github.com/p547850824-commits/chatter-downloads/releases/download/v1.0.2/Chatter-1.0.2.apk) · [All releases](https://github.com/p547850824-commits/chatter-downloads/releases)
 
 APKs are provided under **Releases**. Download the `.apk` asset, not GitHub’s automatically generated source archives; those archives contain this repository’s documentation only.
 
@@ -28,7 +28,8 @@ Public releases use a dedicated signing certificate. If you previously installed
 
 ## Features
 
-- Three phrase collections: Catchphrases, Slang, and Food.
+- Three phrase collections: Catchphrases, Slang (30 mild to moderate English swears), and Food.
+- A paper-cut style portrait with a fixed orientation and live Glyph overlay.
 - A live, device-sized Matrix preview with a typing playground.
 - Long words move left to keep the newest letter visible.
 - One-hour pinned messages, including Chinese text using Fusion Pixel Font.

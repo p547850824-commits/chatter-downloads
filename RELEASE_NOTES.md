@@ -1,3 +1,27 @@
+# Chatter 1.0.2 — Public preview
+
+Chatter brings your Glyph Matrix to life as you type, revealing selected phrases rather than the text you type.
+
+## Changes
+
+- Updated the preview portrait with warm skin tones, forest-green clothing and geometric paper-cut shading.
+- Corrected eye and face-shadow layering, moved the thumb to the screen-facing side and simplified the ear.
+- Disabled device-motion rotation of the portrait; breathing animation and the live Glyph preview remain available.
+- Replaced the Slang collection with 30 mild to moderate English swears. The category remains named Slang; its description now identifies the content.
+- Resets phrase progression when updating the catalog.
+
+## Download and installation
+
+Download **Chatter-1.0.2.apk**. **SHA256SUMS.txt** provides its SHA-256 checksum.
+
+For Nothing Phone (3) and Phone (4a) Pro with Android 14+ and compatible Nothing OS firmware. Enable the accessibility service for typing effects and disable competing Glyph typing effects.
+
+This APK uses the same dedicated release signing key as 1.0.1, allowing an in-place upgrade from that public release. Debug builds use a different certificate and may require manual removal first; uninstalling removes local app data.
+
+This public repository contains downloads, documentation and license notices only. Application source code remains private.
+
+---
+
 # Chatter 1.0.1 — Public preview
 
 ## What if your Glyph started talking nonsense?
